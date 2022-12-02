@@ -4,7 +4,7 @@
 
 #### Profesor de React: *Daniel Alberto Soto Guillen*
 #### Alumno: *Yanily Espinoza*
-#### Enlace al e-commerce: [Fabihogar](/////////////////)
+#### Enlace al e-commerce: [Fabihogar](https://fabyhogares.netlify.app/)
 
 Proyecto final de React en CoderHouse, consiste en la construcción de un e-commerce empleando la librería de react, capaz de mostrar diversos productos al usuario, ver detalle del producto, carrito de compras, interactuar con la base de datos en firestore, consultar detalle de compras. A continuación se detalla en mas profundidad las herramientas empleadas y su uso dentro del proyecto. 
 
